@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Sahu Tapan
+- 🎓 I’m Full Stack Dev & a junior pursuing my Bachelors in Computer Engineering.
+  👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 - 📫 How to reach me https://www.instagram.com/sahutapan_/
 
 <!---
