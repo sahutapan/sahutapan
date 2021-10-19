@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tapan Sahu</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Tapan Sahu</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
