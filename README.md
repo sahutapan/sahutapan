@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sahutapan&show_icons=true&locale=en" alt="sahutapan" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahutapan&" alt="sahutapan" />
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahutapan&" alt="sahutapan" /></p>
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahutapan&show_icons=true&locale=en" alt="sahutapan" />
