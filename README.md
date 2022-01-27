@@ -10,7 +10,7 @@
 
 ### About me:
 
-<p>🎓 I’m a <strong>Full-Stack Developer </strong>& a junior pursuing my Bachelors in <strong>Computer Engineering.</strong></p>
+<p>🎓 I’m a <strong>Full-Stack Developer </strong>& pursuing my Bachelors in <strong>Computer Engineering.</strong></p>
 <p>💬 Ask me about<strong> Data Structures in C++.</strong></p>
 
 <hr>
