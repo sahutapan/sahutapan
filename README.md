@@ -1,4 +1,4 @@
- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+ <center><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></center>
 <h1 align="center">Hi, I'm Tapan Sahu</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
