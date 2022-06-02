@@ -1,5 +1,5 @@
- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" align="center">
-<h1 align="center">Hi, I'm Tapan Sahu</h1>
+
+<h1 align="center">Hi  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="15px">, I'm Tapan Sahu</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 ### Connect with me:
