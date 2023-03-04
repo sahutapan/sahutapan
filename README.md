@@ -5,7 +5,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.instagram.com/sahutapan_/"><img src="https://img.shields.io/badge/@sahutapan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="mailto:sahutapan320@gmail.com"> <img src="https://img.shields.io/badge/sahutapan320@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a></p>
+<a href="https://www.instagram.com/sahutapan_/" traget="_blank"><img src="https://img.shields.io/badge/@sahutapan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="mailto:sahutapan320@gmail.com"> <img src="https://img.shields.io/badge/sahutapan320@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 
 <hr>
 
